@@ -1,11 +1,15 @@
 {
   "mcpServers": {
-    "browser-use": {
-      "command": "uvx",
-      "args": [
-        "browser-use[cli]",
-        "--mcp"
-      ]
-    }
+      "browser-use": {
+        "command": "uvx",
+        "args": ["mcp-server-browser-use@latest"],
+        "env": {
+          "MCP_LLM_PROVIDER": "ollama",
+          "MCP_LLM_MODEL_NAME": "gemma3n",
+          "MCP_LLM_OLLAMA_ENDPOINT": "http://192.168.1.71:11434",
+
+          "MCP_BROWSER_HEADLESS": "false"
+        }
+      }
   }
 }
