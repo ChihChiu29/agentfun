@@ -3,7 +3,11 @@ from browser_use import Agent
 from browser_use.llm import ChatOllama
 
 async def run_agent(task: str):
-    llm = ChatOllama(model="qwen3:8b", temperature=1.0, base_url="http://192.168.1.71:11434")
+    llm = ChatOllama(
+        'qwen2.5vl:7b',
+        host='http://192.168.1.71:11434',
+    )
+    
     # print(llm.invoke([
     #     (
     #         "system",
