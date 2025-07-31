@@ -1,4 +1,4 @@
-Song: 是你 (Shì Nǐ) - 梦然 (Mèng Rán)
+Song: 是你 梦然
 Lyrics:
 我们一同追着心中的梦想
 我们试着把太阳放在手掌
@@ -51,7 +51,7 @@ Lyrics:
 
 ---
 
-Song: 苦咖啡·唯一 (Kǔ Kāfēi · Wéiyī) - 那奇沃夫 (Nà Qí Wò Fū), KKECHO
+Song: 苦咖啡·唯一 那奇沃夫 KKECHO
 Lyrics:
 (KKECHO)
 Baby 你就是我的唯一
@@ -268,7 +268,7 @@ Lyrics:
 
 ---
 
-Song: 时差 (Shí Chā) - en (王翊恩) (en (Wáng Yì'ēn))
+Song: 时差 王翊恩
 Lyrics:
 默契地沉默了不如我认输呢
 拉扯只是拖延几刻
@@ -314,7 +314,7 @@ Lyrics:
 
 ---
 
-Song: 花是花 (Huā Shì Huā) - 渡 (Dù)
+Song: 花是花 渡
 Lyrics:
 整个世界是痴人幻想的游戏
 很多关系一开始就写好结局

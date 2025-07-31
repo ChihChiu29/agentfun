@@ -1,0 +1,1 @@
+gemini -y -p instruction.txt
