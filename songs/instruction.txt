@@ -1,3 +1,1 @@
-看一下`lyrics_douyin.txt`的内容，以那个为inspiration写一个中文hip hop的歌的歌名和歌词。**歌要是情歌**，可以是悲伤的或者是俏皮的，歌词的长度适合大概是2到3分钟的歌。写完后检查一下，主要看看是不是押韵，flow需不需要调整，修改下。反复至少5次，每一次把歌名和歌词结果写进`song_original.txt`，把每次结果append在后面，不要overwrite。
-
-然后再给出符合这首歌的style的prompt，写进`style_original.txt`。给出5种不同的style，都写进去。style不要超出200字。
+对`songs_douyin.txt`里的每一首歌，写5个可能的style。每个style是一组描述词，给SUNO用的，不能超过200字。把结果写进`style_douyin.txt`。如果这个文件已经有内容，在后面添加新内容，不要删除内容。

@@ -1,0 +1,3 @@
+看一下`lyrics_douyin.txt`的内容，以那个为inspiration写一个中文hip hop的歌的歌名和歌词。**歌要是悲伤或忧郁的情歌**，歌以中文为主，混有一点英文的歌词。歌词的长度适合大概是2到3分钟的歌。写完后检查一下，主要看看是不是押韵，flow需不需要调整，修改下。反复至少5次，每一次把歌名和歌词结果写进`song_original.txt`，把每次结果append在后面，不要overwrite。
+
+然后再给出符合这首歌的style的prompt，写进`style_original.txt`。给出5种不同的style，都写进去。style不要超出200字。
