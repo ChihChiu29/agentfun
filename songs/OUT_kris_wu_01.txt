@@ -1,75 +1,994 @@
-歌名：墨色江山
+Song Title: 时间煮雨
+Lyrics:
+风吹雨成花，时间追不上白马。
+你年少掌心的梦话，依然紧握着吗？
+云翻涌成夏，眼泪被岁月蒸发。
+这条路上的你我她，有谁迷路了吗？
 
-(Verse 1)
-宣纸染墨，勾勒江山轮廓
-狼烟起，铁蹄踏破，谁的过错
-我提笔，写下这千年的寂寞
-烽火连天，只为你一人执着
-月光下，你的身影，如诗如画
-我策马，追寻你到海角天涯
-这江山，如画，却不及你一抹朱砂
-我愿为你，放下这天下的繁华
+我们说好不分离，要一直一直在一起。
+就算与时间为敌，就算与全世界背离。
 
-(Pre-Chorus)
-古筝弹奏，一曲离愁
-我饮一杯，无言的酒
-看江山，依旧，人事已休
-只剩下，我一人，在风中守候
+风吹亮雪花，吹白我们的头发。
+当初说一起闯天下，你们还记得吗？
+那一年盛夏，心愿许的无限大。
+我们手拉手也成舟，划过悲伤河流。
 
-(Chorus)
-墨色江山，我为你画
-画中是你，绝代的风华
-我用这天下，换你一笑
-可好
-墨色江山，我为你画
-画中是我，无尽的牵挂
-我用这一生，等你回答
-可好
+你曾说过不分离，要一直一直在一起。
+现在我想问问你，是否只是童言无忌？
+天真岁月不忍欺，青春荒唐我不负你。
+大雪求你别抹去，我们在一起的痕迹。
+大雪也无法抹去，我们给彼此的印记。
 
-(Verse 2)
-城墙上，刻着我们，当年的誓言
-如今，只剩下，断壁残垣
-我寻遍，这世间，所有的诗篇
-也找不到，能形容你，美丽的语言
-我问佛，这情缘，是劫还是缘
-佛说，一切，皆有定数，不必强求
-我笑了，笑我痴，笑我颠
-我只要，你一人，便胜过，这人间
+今夕何夕，青草离离。
+明月夜送君千里，等来年秋风起。
 
-(Pre-Chorus)
-古筝弹奏，一曲离愁
-我饮一杯，无言的酒
-看江山，依旧，人事已休
-只剩下，我一人，在风中守候
+Styles from IN_styles.txt:
+- chinese hip hop, auto tune, Kris Wu, 吴亦凡, melancholic chinese folk song, ethereal vocals, traditional instruments like guzheng and dizi
+- Neo soul, jazzy piano, subtle bass, emotional vocals, layered harmonies, intimate atmosphere, longing, heartbreak, mellow drums, atmospheric pads, reflective
+- Chinese rap, emotional hip hop, melodic, innovative tune, ethereal flow, dreamy, atmospheric, mystical, poignant, introspective, subtle beat, vocal harmonies
+- Experimental hip hop, abstract lyrical content, unconventional song structure, avant garde production, blending Chinese and Western sounds, innovative and forward thinking
+- Melancholy Chinese hip hop, neo soul, emotional rap, atmospheric beats, subtle traditional instruments, echoing vocals, introspective lyrics, slow tempo
 
-(Chorus)
-墨色江山，我为你画
-画中是你，绝代的风华
-我用这天下，换你一笑
-可好
-墨色江山，我为你画
-画中是我，无尽的牵挂
-我用这一生，等你回答
-可好
+Your Generated Styles:
+- melancholic pop ballad, ethereal female vocals, traditional Chinese instrumentation, cinematic strings, reflective piano, nostalgic atmosphere
+- dreamy folk-pop, acoustic guitar, soft percussion, poetic lyrics, sentimental mood, flowing melody
+- cinematic orchestral pop, soaring strings, emotional male vocals, grand arrangements, reflective and hopeful
+- traditional Chinese folk, guzheng melody, gentle male vocals, serene soundscape, historical narrative
+- ambient pop, atmospheric pads, subtle electronic elements, introspective lyrics, wistful and ethereal
+----------
 
-(Bridge)
-我愿，为你，放弃所有
-我愿，为你，倾尽温柔
-只要，你能，为我停留
-我愿，陪你，走到，时间的尽头
+Song Title: 大碗宽面
+Lyrics:
+碗大宽无影 面长消失 像儿时的回忆
+从来不敢去相信 大碗能让你开心
+但这确是我本意 也许是一种天意
+切磋武艺切磋一下 武林高手来一比高下
+千军万马就一声令下 面馆相见这千钧一发
 
-(Chorus)
-墨色江山，我为你画
-画中是你，绝代的风华
-我用这天下，换你一笑
-可好
-墨色江山，我为你画
-画中是我，无尽的牵挂
-我用这一生，等你回答
-可好
+何必针锋相对 你看这碗又大又圆
+相聚就要举起杯 你看这面又长又宽
+武侠小说看流泪 从来不相信魔鬼
+有时生活特别累 别馋大碗宽面别流泪
 
-(Outro)
-这江山，我不要了
-我只要你
-回来
-可好
+这碗大 千万别虚荣心作祟
+真心话 这大碗宽面也很贵
+先别说话 不想给你机会先别怼
+就散了吧 听完这首歌就洗洗睡
+
+我这一生漂泊四海看淡了今朝
+月高高的挂无暇
+人生能有几次机会相聚甚是少
+情谊别轻易放掉
+
+Ah wu ah nah. Ah wu ah yeh. Ohh人生如戏开个小玩笑玩笑
+别去轻易否定自己 你拥有你的天地
+没人能够把你定义 快乐才是真谛
+
+所以何必针锋相对 你看这碗又大又圆
+相聚就要举起杯 你看这面又长又宽
+感觉镜花水月 我一声笑傲江湖
+我只身闯江湖 何必分出胜负
+
+这碗大 千万别虚荣心作祟
+真心话 这大碗宽面也很贵
+先别说话 不想给你机会先别怼
+就散了吧 听完这首歌就洗洗睡
+
+我这一生漂泊四海看淡了今朝
+月高高的挂无暇
+人生能有几次机会相聚甚是少
+情谊别轻易放掉
+
+门前雨落下 我浪迹天涯
+有儿女情长 悲欢离合呀
+
+Styles from IN_styles.txt:
+- Chinese hip hop, sad boy rap, melodic flow, trap influence, muted 808s, echoing vocals, vulnerability, heartbroken lyrics, late night vibes, reflective
+- Neo soul, jazzy piano, subtle bass, emotional vocals, layered harmonies, intimate atmosphere, longing, heartbreak, mellow drums, atmospheric pads, reflective
+- Neo hip hop, Chinese classical, ethereal, melancholic rap, lotus imagery, atmospheric beats, introspective lyrics, powerful vocals, emotional depth, dramatic
+- chinese hip hop, auto tune, Kris Wu, 吴亦凡, melancholic chinese folk song, ethereal vocals, traditional instruments like guzheng and dizi
+- Mandarin hip hop, trap soul, lo-fi hip hop, R&B fusion, melodic rap, atmospheric production, introspective themes, emotional vulnerability, smooth vocal delivery, reflective lyrics
+
+Your Generated Styles:
+- playful hip-hop, trap beats, traditional Chinese samples, confident male rap, catchy hook, lighthearted and humorous
+- chillhop, lo-fi beats, jazzy elements, smooth male vocals, relaxed vibe, introspective but optimistic
+- Mandarin rap, boom-bap influence, witty lyrics, dynamic flow, East Asian instrumentation, storytelling
+- fusion hip-hop, traditional Chinese opera vocal samples, modern electronic production, energetic and unique
+- upbeat pop-rap, feel-good anthem, simple melodic structure, positive message, easy listening
+----------
+
+Song Title: 天地
+Lyrics:
+小时候的梦境里
+那时候的人们说
+想要得到的太多
+永远找不到尽头
+每个夜晚在我座驾里
+不知道飞驰了多少公里
+路口太多寻找目的地
+太多的喧嚣只想要屏蔽
+在乎太多事情困扰太多
+但从不逃避
+你说你要抬起头哦
+路到尽头总会遇到下个路口
+不到最后不该轻易放手
+我超速前行打破所有格局
+有些人说我有罪ye
+破格的在道路上飞ye
+他们想看我下坠ye
+不知道我会流泪ye
+下一个降落地又是晴天霹雳
+已站在至高地我决不会放弃ye
+江湖人说我不行
+古人说路遥知马力
+陪我走陪我闯天地
+我从不将就我的命运
+
+小时候的梦境里
+那时候的人们说
+不想遵从那规矩
+世界与我远离
+有些事放心底
+但是不会停止继续
+孤单前行伤痛不在意
+面对攻击我选择前进
+有什么关系反正到最后都我自己
+不需你怜悯不需要借口什么玩意
+别再玩把戏
+我耐心的说你从来不懂
+无奈的我错一步虎口
+从今以后我不需更多勇气
+我已知道我能战胜所有崎岖
+江湖人说我不行
+古人说路遥知马力
+陪我走陪我闯天地
+我从不将就我的命运
+
+小时候的梦境里
+那时候的人们说
+想要得到的太多
+永远找不到尽头
+永远找不到尽头
+永远找不到尽头
+江湖人说我不行
+古人说路遥知马力
+陪我走陪我闯天地
+我从不将就我的命运
+
+Styles from IN_styles.txt:
+- Chinese hip hop, sad boy rap, melodic flow, trap influence, muted 808s, echoing vocals, vulnerability, heartbroken lyrics, late night vibes, reflective
+- Neo soul, jazzy piano, subtle bass, emotional vocals, layered harmonies, intimate atmosphere, longing, heartbreak, mellow drums, atmospheric pads, reflective
+- Neo hip hop, Chinese classical, ethereal, melancholic rap, lotus imagery, atmospheric beats, introspective lyrics, powerful vocals, emotional depth, dramatic
+- chinese hip hop, auto tune, Kris Wu, 吴亦凡, melancholic chinese folk song, ethereal vocals, traditional instruments like guzheng and dizi
+- chinese rap, hip hop, powerful, dynamic flow, exotic flow, melody hook, emotional, psycho, neurotic, shout, male vocal
+
+Your Generated Styles:
+- powerful trap anthem, heavy 808s, aggressive male rap, motivational lyrics, dark and gritty production, triumphant chorus
+- epic hip-hop, orchestral hits, cinematic sound design, determined male vocals, overcoming adversity theme
+- gritty street rap, raw vocals, minimalist beat, defiant attitude, introspective struggle, authentic storytelling
+- inspirational hip-hop, gospel choir samples, uplifting melody, powerful message, soaring production
+- dark trap, distorted synths, deep bass, confident and assertive male rap, atmospheric and intense
+----------
+
+Song Title: 贰叁
+Lyrics:
+空庭雨飘落
+花凋零落寞
+仿佛云也飘过
+如果来世还能把你放心海
+像大海对鱼说的话
+故事说两三句就散了
+也许事与愿违呀
+如今风花雪月没有她
+该如何描绘你的模样
+
+初雪飘过风吹霜
+是否能够给我一次机会重来呀
+红颜笑他把酒醉今朝 如梦初醒忘掉
+
+雨落下感伤
+雨落下的那个夜晚月无瑕
+提起笔刻画那两三划
+只为了能够封存你的模样
+不想那命运如此蹉跎像注定与你错过
+我的世界快坠落 Oh 昙花一现凋落
+所以说的那么多只是无措
+一切已早有结果
+你就是想要离开我 ye
+告诉我别打扰了抱歉我却
+可不可以给我一次机会你却
+让我歇斯底里心如刀割感觉 oh wu
+
+走了以后世界跌入深渊
+我再也没有对时间流逝的概念
+也还没来得及对你说一句再见
+总觉得我还欠你最后一声抱歉
+Aw nah ye 以后身边不再有她 ye
+没有我你是否害怕
+Nahnah yeye 能不能挽回那曾经的年少
+
+初雪飘过风吹霜
+是否能够给我一次机会重来呀
+红颜笑他把酒醉今朝
+如梦初醒忘掉
+
+我不想说我不想躲
+从没想过走出你的世界
+就算再多别的过客
+我也再不想离开你的世界
+
+Styles from IN_styles.txt:
+- Chinese hip hop, sad boy rap, melodic flow, trap influence, muted 808s, echoing vocals, vulnerability, heartbroken lyrics, late night vibes, reflective
+- Neo soul, jazzy piano, subtle bass, emotional vocals, layered harmonies, intimate atmosphere, longing, heartbreak, mellow drums, atmospheric pads, reflective
+- Neo hip hop, Chinese classical, ethereal, melancholic rap, lotus imagery, atmospheric beats, introspective lyrics, powerful vocals, emotional depth, dramatic
+- chinese hip hop, auto tune, Kris Wu, 吴亦凡, melancholic chinese folk song, ethereal vocals, traditional instruments like guzheng and dizi
+- Melancholy Chinese hip hop, neo soul, emotional rap, atmospheric beats, subtle traditional instruments, echoing vocals, introspective lyrics, slow tempo
+
+Your Generated Styles:
+- heartbroken R&B ballad, soulful male vocals, melancholic piano chords, subtle trap drums, emotional depth, longing atmosphere
+- ethereal trap-soul, reverb-drenched vocals, atmospheric synths, slow tempo, introspective and sad
+- cinematic R&B, dramatic strings, powerful male vocals, emotional build-up, poignant and reflective
+- lo-fi R&B, hazy production, vulnerable male vocals, intimate and melancholic, late-night vibe
+- acoustic R&B, gentle guitar, raw emotional vocals, stripped-down production, heartfelt and sincere
+----------
+
+Song Title: Hold Me Down (中文版)
+Lyrics:
+I need a girl to hold me down down down
+I really need a girl to hold me down
+Now now now
+I really need a girl to hold me down
+只想能陪在你身旁
+你需要时候请靠我肩膀
+Can you hold me down down down
+I really need a girl to hold me down
+
+你迷人微微笑的样子很可爱
+出现在我生命里是上帝安排
+命运让你来到我心海
+陪你到天涯海角从来不会徘徊
+从不吝啬对你的宠爱
+你回眸让我不能忘怀
+聆听你话语我心跳加快
+流言蜚语不予理睬
+只要有你在一切alright
+无论你需要什么我都会安排
+你一通电话我就会来
+从来没有想过我会这样但现在
+I need a girl to hold me down down down
+I really need a girl to hold me down
+Now now now
+I really need a girl to hold me down
+只想能陪在你身旁
+你需要时候请靠我肩膀
+Can you hold me down down down
+I really need a girl to hold me down
+
+日出日落美不过你眼神
+疼你爱你你就是我星辰
+眉眼发梢之间露出的天真
+每个样子都让我为你沉沦
+想象不到没有你每个清晨
+未来还要一起数每个年轮
+Now now now
+I really wanna love you down
+
+只要有你在一切alright
+无论你需要什么我都会安排
+你一通电话我就会来
+从来没有想过我会这样但现在
+I need a girl to hold me down down down
+I really need a girl to hold me down
+Now now now
+I really need a girl to hold me down
+只想能陪在你身旁
+你需要时候请靠我肩膀
+Can you hold me down down down
+I really need a girl to hold me down
+
+Love me love me love me
+Give me motivation yeah
+I need a girl to hold me down down down
+
+Styles from IN_styles.txt:
+- Chinese hip hop, sad boy rap, melodic flow, trap influence, muted 808s, echoing vocals, vulnerability, heartbroken lyrics, late night vibes, reflective
+- Neo soul, jazzy piano, subtle bass, emotional vocals, layered harmonies, intimate atmosphere, longing, heartbreak, mellow drums, atmospheric pads, reflective
+- Neo hip hop, Chinese classical, ethereal, melancholic rap, lotus imagery, atmospheric beats, introspective lyrics, powerful vocals, emotional depth, dramatic
+- chinese hip hop, auto tune, Kris Wu, 吴亦凡, melancholic chinese folk song, ethereal vocals, traditional instruments like guzheng and dizi
+- Mandarin hip hop, trap soul, lo-fi hip hop, R&B fusion, melodic rap, atmospheric production, introspective themes, emotional vulnerability, smooth vocal delivery, reflective lyrics
+
+Your Generated Styles:
+- smooth R&B pop, catchy melody, affectionate male vocals, modern synth production, romantic and upbeat
+- contemporary R&B, groovy bassline, slick drums, confident male vocals, sensual and alluring
+- feel-good pop, bright synths, energetic beat, optimistic male vocals, lighthearted and charming
+- trap-soul love song, melodic rap, atmospheric pads, heartfelt lyrics, modern production, intimate feel
+- upbeat dance-pop, driving beat, charismatic male vocals, vibrant synths, energetic and fun
+----------
+
+Song Title: 想你 (与赵丽颖合作)
+Lyrics:
+想你想你想着你 有些模糊记忆
+看你看你看着你 藏在心中秘密
+我等你等你等着你 想和你在一起
+是你是你就是你 记住你的气息
+
+看着你的照片 不知过了多少时间
+我该用什么字眼 有些事是否改变
+那断了线的誓言 离开我的世界
+爱情从未实现
+
+害怕模糊了视线 想记住关于你一切
+在别人眼中我们是多密切
+有些人有些事怕不够时间
+有些情有些字没表达准确
+但已经逝去的季节 我还想在你身边
+不知深秋的深浅 我能否在你跟前
+放不下心中的纠结 就像你最爱的球鞋
+忘不了你给的誓言 曾几何时多少日夜
+我想我正在想着你 没你不适应
+我想我只想抱着你 你就是唯一
+
+我和你的关系 问你是否愿意
+隔着遥远距离 我为你着迷无法舍弃
+
+我和你都在原地 为何总是逃避
+即使这世界充满猜疑 我却只在乎你 只想和你
+
+想你想你想着你 有些模糊记忆
+看你看你看着你 藏在心中秘密
+我等你等你等着你 想和你在一起
+是你是你就是你 记住你的气息
+
+时间走着滴答滴 有些感情你压低
+懂爱的人更是一大批 结局谁看清
+离别时哪一句 思绪延续回首是否还会有你
+爱情里谁愿意谦虚
+环绕你四周 更不是为了把你骗取
+为了你我可以诗情画意
+为了你也可以用尽力气
+我爱你上瘾也怕你伤心
+有些事情不会放弃即便滑稽
+为了讨你开心想着各种话题
+即使淋着大雨 我像鲨鱼从不畏惧保护着你
+我想我不能没有你 没办法舍去
+我想我只想陪着你 一直走下去
+
+无法控制情绪 表达我的言语
+偶尔想告诉你 有个人他很想你
+无法控制情绪 表达我的言语
+爱像一场电影 别把我放在背景
+
+我和你的关系 问你是否愿意
+隔着遥远距离 我为你着迷无法舍弃
+我和你都在原地 为何总是逃避
+即使这世界充满猜疑 我却只在乎你只想和你
+
+想你想你想着你 有些模糊记忆
+看你看你看着你 藏在心中秘密
+我等你等你等着你 想和你在一起
+是你是你就是你 记住你的气息
+
+Styles from IN_styles.txt:
+- Chinese hip hop, sad boy rap, melodic flow, trap influence, muted 808s, echoing vocals, vulnerability, heartbroken lyrics, late night vibes, reflective
+- Neo soul, jazzy piano, subtle bass, emotional vocals, layered harmonies, intimate atmosphere, longing, heartbreak, mellow drums, atmospheric pads, reflective
+- Neo hip hop, Chinese classical, ethereal, melancholic rap, lotus imagery, atmospheric beats, introspective lyrics, powerful vocals, emotional depth, dramatic
+- chinese hip hop, auto tune, Kris Wu, 吴亦凡, melancholic chinese folk song, ethereal vocals, traditional instruments like guzheng and dizi
+- Mandarin hip hop, trap soul, lo-fi hip hop, R&B fusion, melodic rap, atmospheric production, introspective themes, emotional vulnerability, smooth vocal delivery, reflective lyrics
+
+Your Generated Styles:
+- emotional R&B ballad, longing male vocals, gentle piano, subtle strings, heartfelt and melancholic, distant love theme
+- dreamy pop, atmospheric synths, soft percussion, introspective lyrics, wistful and romantic
+- modern pop-R&B, catchy chorus, smooth male vocals, contemporary production, yearning and hopeful
+- lo-fi R&B, hazy soundscape, vulnerable male vocals, intimate and reflective, missing someone
+- acoustic pop, simple guitar melody, sincere male vocals, raw emotion, direct and personal
+----------
+
+Song Title: 悟
+Lyrics:
+每当我踏上战地
+感到视线的狙击
+我只想简单的活着
+不在乎那是非名利
+闪光灯亮起
+我想逃避
+每天都在枪林弹雨
+我做的事你都想抄袭
+我也不在意
+当黑夜来临确信我终将崛起
+顶峰从来由我定义
+即使你质疑又有何惧
+早已习惯狂风暴雨
+所以我只愿只身孤行
+
+不在意那些是与非
+言语暴力下的那些血和泪
+不断阻止我诽谤加倍
+想要将我所有努力都报废
+从来不怕黑谣言终破碎
+用事实回击你犯下的罪
+编造故事想要看我荒废
+其实我早已看透已毫无所畏
+
+再多苦难我都会接受
+孤单前行伤害由我承受
+所有事我承担不需借口
+Oh yea oh yea yeaaa
+再多苦难我都会接受
+孤单前行伤害由我承受
+所有事我承担不需借口
+Oh yea oh yea yeaaa
+
+防不胜防每天有人偷拍
+家的门口每天有人徘徊
+无数陌生面孔我的心会累
+生活像过山车般的不是滋味
+厌倦躲藏游戏虚假的友谊
+我已站在更高领地
+走我的路
+头也不回
+我不后悔
+更不后退
+
+不在意那些是与非
+言语暴力下的那些血和泪
+不断阻止我诽谤加倍
+想要将我所有努力都报废
+从来不怕黑谣言终破碎
+用事实回击你犯下的罪
+编造故事想要看我荒废
+其实我早已看透已毫无所畏
+
+再多苦难我都会接受
+孤单前行伤害由我承受
+所有事我承担不需借口
+Oh yea oh yea yeaaa
+
+这是命运你和我都懂
+别找借口不需要理由
+别说太多你和我都懂
+我的命运我自己掌控
+再多苦难我都会接受
+孤单前行伤害由我承受
+所有事我承担不需借口
+Oh yea oh yea yeaaa
+再多苦难我都会接受
+孤单前行伤害由我承受
+所有事我承担不需借口
+Oh yea oh yea yeaaa
+
+Styles from IN_styles.txt:
+- Chinese hip hop, sad boy rap, melodic flow, trap influence, muted 808s, echoing vocals, vulnerability, heartbroken lyrics, late night vibes, reflective
+- Neo soul, jazzy piano, subtle bass, emotional vocals, layered harmonies, intimate atmosphere, longing, heartbreak, mellow drums, atmospheric pads, reflective
+- Neo hip hop, Chinese classical, ethereal, melancholic rap, lotus imagery, atmospheric beats, introspective lyrics, powerful vocals, emotional depth, dramatic
+- chinese hip hop, auto tune, Kris Wu, 吴亦凡, melancholic chinese folk song, ethereal vocals, traditional instruments like guzheng and dizi
+- chinese rap, hip hop, powerful, dynamic flow, exotic flow, melody hook, emotional, psycho, neurotic, shout, male vocal
+
+Your Generated Styles:
+- powerful trap anthem, heavy 808s, aggressive male rap, motivational lyrics, dark and gritty production, triumphant chorus
+- epic hip-hop, orchestral hits, cinematic sound design, determined male vocals, overcoming adversity theme
+- gritty street rap, raw vocals, minimalist beat, defiant attitude, introspective struggle, authentic storytelling
+- inspirational hip-hop, gospel choir samples, uplifting melody, powerful message, soaring production
+- dark trap, distorted synths, deep bass, confident and assertive male rap, atmospheric and intense
+----------
+
+Song Title: 破晓
+Lyrics:
+独自徘徊深夜的街
+现实与梦境思绪麻痹了感觉
+一切才开始感觉却像终点线
+我在深渊你是否能看得见
+当我站在高楼
+这座城市没你守候
+这时我是否该放手
+忘记自己也曾拥有
+我感觉下坠夜太黑都太疲惫摇摇欲坠
+你不用担心我难过而表现腼腆
+也知道你不舍想陪在我的身边
+已无路可退被遗忘的放弃的美好的刻骨的铭心的回忆呢
+所有孤独一人独处独自哭
+还学不会爱情真的抓不到
+轻描淡写的句号
+感觉付出的太少
+曾经年少太孤傲
+玩笑开太过分手说太多
+也知道你难过
+爱像飘过的花火
+世界的嘲笑落寞的咆哮
+天都已破晓思绪更焦躁
+失眠夜太多太焦灼太折磨
+已失联别找我不想说
+当我站在高楼
+这座城市没你守候
+这时我是否该放手
+忘记自己也曾拥有
+我感觉下坠夜太黑都太疲惫摇摇欲坠
+你不用担心我难过而表现腼腆
+也知道你不舍想陪在我的身边
+就远走高飞
+
+Styles from IN_styles.txt:
+- Chinese hip hop, sad boy rap, melodic flow, trap influence, muted 808s, echoing vocals, vulnerability, heartbroken lyrics, late night vibes, reflective
+- Neo soul, jazzy piano, subtle bass, emotional vocals, layered harmonies, intimate atmosphere, longing, heartbreak, mellow drums, atmospheric pads, reflective
+- Neo hip hop, Chinese classical, ethereal, melancholic rap, lotus imagery, atmospheric beats, introspective lyrics, powerful vocals, emotional depth, dramatic
+- chinese hip hop, auto tune, Kris Wu, 吴亦凡, melancholic chinese folk song, ethereal vocals, traditional instruments like guzheng and dizi
+- Melancholy Chinese hip hop, neo soul, emotional rap, atmospheric beats, subtle traditional instruments, echoing vocals, introspective lyrics, slow tempo
+
+Your Generated Styles:
+- melancholic R&B, dark atmospheric synths, slow trap beat, reflective male vocals, urban loneliness, emotional struggle
+- sad boy pop, ethereal production, auto-tuned vocals, introspective lyrics, wistful and heartbroken
+- cinematic trap-soul, dramatic strings, deep 808s, emotional male vocals, sense of despair and hope
+- lo-fi hip-hop, rainy night ambiance, smooth male vocals, reflective and chill, urban soundscape
+- alternative R&B, experimental production, vulnerable male vocals, raw emotion, dark and moody
+----------
+
+Song Title: 翱翔
+Lyrics:
+吴亦凡：
+透出的微光 你我之间
+无限的感动 环绕身边
+
+REGI陈彦希：
+蓝天好久不见 我要说声抱歉
+没有你的出现 我们都低下头快没了呼吸
+在我耳边响起 鸟儿点下涟漪
+经过你的故意 听得见心跳和划过的痕迹
+
+王嗣尧TURBO：
+当期望多过希望 等在夜幕前的夕阳
+万里乌云一束光芒 把我在的周围照亮
+勇敢张开翅膀 乘着火焰像燃烧的火鸟
+变成一个新的自己 感谢无数次的跌倒
+
+吴亦凡：
+看阳光洒在这土地上
+你我都曾有彷徨和迷茫
+Left Or Right找寻新的方向
+这低谷只不过一刹那
+穿过了乌云中留下希望
+眺望着远方那束曙光
+陪伴着你翱翔
+路就踩在脚下 不必胆怯害怕
+Know We Gon Be Alright
+
+MAC OVA SEAS：
+地平线落下了夕阳 海鸥张开了翅膀
+目标没有被遗忘 只往风吹过
+最高的那片天空翱翔
+
+L4WUDU：
+风 把乌云推开 沉痛 被我掩埋
+跟很多人一样 收拾好了行囊
+当我 站在 山顶上 放下所有告诉我这世界就没有对错
+宇宙大爆炸的以前我是你你也是我
+有着相同的开始也有着相同的结果
+成千上万的巧合还交织着不同选择
+
+MAC OVA SEAS：
+大海沙滩山川河流
+哪怕每天一步像蜗牛
+世界旋转一天要多久
+围绕着你是我所有
+
+吴亦凡：
+看阳光洒在这土地上
+你我都曾有彷徨和迷茫
+Left Or Right找寻新的方向
+这低谷只不过一刹那
+穿过了乌云中留下希望
+眺望着远方那束曙光
+陪伴着你翱翔
+路就踩在脚下 不必胆怯害怕
+Know We Gon Be Alright
+
+MAC OVA SEAS：
+地平线落下了夕阳 海鸥张开了翅膀
+目标没有被遗忘 只往风吹过
+最高的那片天空翱翔
+
+林渝植Anoryz：
+这世界每个人的存在怎么会一样
+不同的痛和快乐交织的真相
+不如你我打破那心的城墙
+去听见有个声音被听见他说
+不要怕被困顿在人群之中
+经历的过往会成全这梦
+
+吴亦凡：
+陪伴着你翱翔
+路就踩在脚下
+不必胆怯害怕
+Know We Gon Be Alright
+
+MAC OVA SEAS：
+地平线落下了夕阳 海鸥张开了翅膀
+目标没有被遗忘 只往风吹过
+最高的那片天空翱翔
+
+Styles from IN_styles.txt:
+- Chinese hip hop, sad boy rap, melodic flow, trap influence, muted 808s, echoing vocals, vulnerability, heartbroken lyrics, late night vibes, reflective
+- Neo soul, jazzy piano, subtle bass, emotional vocals, layered harmonies, intimate atmosphere, longing, heartbreak, mellow drums, atmospheric pads, reflective
+- Neo hip hop, Chinese classical, ethereal, melancholic rap, lotus imagery, atmospheric beats, introspective lyrics, powerful vocals, emotional depth, dramatic
+- chinese hip hop, auto tune, Kris Wu, 吴亦凡, melancholic chinese folk song, ethereal vocals, traditional instruments like guzheng and dizi
+- chinese rap, hip hop, powerful, dynamic flow, exotic flow, melody hook, emotional, psycho, neurotic, shout, male vocal
+
+Your Generated Styles:
+- uplifting hip-hop anthem, powerful male rap, soaring orchestral elements, motivational lyrics, triumphant and energetic
+- inspirational pop-rap, bright synths, driving beat, hopeful male vocals, overcoming challenges, positive message
+- cinematic hip-hop, grand arrangements, determined male vocals, epic soundscape, aspirational theme
+- melodic trap, auto-tuned vocals, atmospheric pads, reflective lyrics, sense of freedom and ambition
+- modern R&B with rap verses, smooth production, confident male vocals, empowering message, contemporary sound
+----------
+
+Song Title: 有一个地方
+Lyrics:
+我能看见你的双眼眺望着天边
+无人街角无声拥抱静静的爱在燃烧
+woo I can hear your voice
+woo I can hear you in my mind
+
+我想起最初你模样想起斑驳的时光
+你在我身旁终于不再流浪
+我想起熟悉的街道
+想起逝去的美好
+有一个地方
+只有你和我知道
+
+我的心跳你的微笑悄悄的给我依靠
+woo I can hear your voice
+woo 你是永恒的天堂
+
+我想起最初你模样想起斑驳的时光
+你在我身旁终于不再流浪
+我想起那熟悉的街道
+想起逝去的美好
+有一个地方
+只有你和我知道
+我知道只有我们知道
+
+Styles from IN_styles.txt:
+- Chinese hip hop, sad boy rap, melodic flow, trap influence, muted 808s, echoing vocals, vulnerability, heartbroken lyrics, late night vibes, reflective
+- Neo soul, jazzy piano, subtle bass, emotional vocals, layered harmonies, intimate atmosphere, longing, heartbreak, mellow drums, atmospheric pads, reflective
+- Neo hip hop, Chinese classical, ethereal, melancholic rap, lotus imagery, atmospheric beats, introspective lyrics, powerful vocals, emotional depth, dramatic
+- chinese hip hop, auto tune, Kris Wu, 吴亦凡, melancholic chinese folk song, ethereal vocals, traditional instruments like guzheng and dizi
+- Mandarin hip hop, trap soul, lo-fi hip hop, R&B fusion, melodic rap, atmospheric production, introspective themes, emotional vulnerability, smooth vocal delivery, reflective lyrics
+
+Your Generated Styles:
+- romantic pop ballad, tender male vocals, gentle piano, soft strings, nostalgic and heartfelt, longing for connection
+- dreamy R&B, atmospheric synths, smooth male vocals, intimate and emotional, sense of a cherished memory
+- acoustic pop, simple guitar melody, sincere male vocals, reflective and sentimental, a secret shared love
+- ethereal pop, airy production, layered vocals, wistful and romantic, a timeless love story
+- lo-fi R&B, hazy soundscape, vulnerable male vocals, intimate and reflective, a special place in heart
+----------
+
+Song Title: 花房姑娘
+Lyrics:
+花房姑娘 我走过你的身旁
+却发现身边的事物早已变了模样
+我抽着很久不抽的香烟
+想着你脸庞我也望过大海的方向
+迷香我们是否迷失过方向
+女孩你在夜里是否向往着远方
+又或许独自走在街上想起那年花房的时光
+我却还在路上
+我独自走过你身旁
+并没有话要对你讲
+我不敢抬头看着你噢脸庞
+你带我走进你的花房
+我无法逃脱花的迷香
+我不知不觉忘记了噢方向
+你要我留在这地方
+你要我和它们一样
+我看着你默默地说噢不能这样
+我想要回到老地方
+我想要走在老路上
+我明知我已离不开你噢my girl
+你带我走进你的花房
+我无法逃脱花的迷香
+我不知不觉忘记了噢方向
+你要我留在这地方
+你要我和它们一样
+我看着你默默地说噢不能这样
+我想要回到老地方
+我想要走在老路上
+我明知我已离不开你噢my girl
+台前幕后的光芒短暂的时光
+那些日子让人一辈子难忘
+曾经的故事也许会被遗忘
+但那些荣耀你应该得到
+捍卫家人你从来不惧怕
+有梦想今晚我们都是老炮儿
+
+Styles from IN_styles.txt:
+- Chinese hip hop, sad boy rap, melodic flow, trap influence, muted 808s, echoing vocals, vulnerability, heartbroken lyrics, late night vibes, reflective
+- Neo soul, jazzy piano, subtle bass, emotional vocals, layered harmonies, intimate atmosphere, longing, heartbreak, mellow drums, atmospheric pads, reflective
+- Neo hip hop, Chinese classical, ethereal, melancholic rap, lotus imagery, atmospheric beats, introspective lyrics, powerful vocals, emotional depth, dramatic
+- chinese hip hop, auto tune, Kris Wu, 吴亦凡, melancholic chinese folk song, ethereal vocals, traditional instruments like guzheng and dizi
+- Mandarin hip hop, trap soul, lo-fi hip hop, R&B fusion, melodic rap, atmospheric production, introspective themes, emotional vulnerability, smooth vocal delivery, reflective lyrics
+
+Your Generated Styles:
+- nostalgic folk-rock, acoustic guitar, harmonica, reflective male vocals, storytelling lyrics, wistful and melancholic
+- indie pop, dreamy synths, gentle male vocals, poetic lyrics, atmospheric and introspective, a journey of self-discovery
+- urban folk, subtle hip-hop beat, spoken word elements, reflective male vocals, city soundscape, longing for the past
+- alternative rock, distorted guitars, emotional male vocals, raw and honest lyrics, sense of rebellion and freedom
+- cinematic pop, orchestral arrangements, powerful male vocals, dramatic and epic, a grand narrative of life
+----------
+
+Song Title: 从此以后
+Lyrics:
+夕阳的背后
+月牙悄悄爬上了夜空
+回家的归途
+有谁在默默等候
+想给你快乐
+却不懂怎么温柔
+只愿陪伴在你的左右
+哪怕一秒也足够
+
+从此以后再也找不到那心动
+你已刻骨铭心在我心中
+从此以后不再由我陪你走到最后
+松开手我心才会好过
+只想你快乐哪怕不是因为我
+不用难过不用担心我
+我愿意为你守候
+
+从此以后再也找不到那心动
+你已刻骨铭心在我心中
+从此以后不要为我流泪请好好过
+松开手我真的不难过
+
+啦啦啦啦啦啦啦啦啦啦啦啦啦啦
+可惜等到故事的最后是风吹潮起潮落
+
+从此以后再也找不到那心动
+你已刻骨铭心在我心中
+从此以后不再有我陪你走到最后
+松开手我真的不难过
+
+从此以后我会记得人海尽头那个你
+我曾经勇敢爱过
+直到剩下我一个人默默尝着寂寞
+失去后珍惜我们懂了
+夕阳的背后
+月牙悄悄爬上了夜空
+回家的归途
+有谁在默默等候
+
+Styles from IN_styles.txt:
+- Chinese hip hop, sad boy rap, melodic flow, trap influence, muted 808s, echoing vocals, vulnerability, heartbroken lyrics, late night vibes, reflective
+- Neo soul, jazzy piano, subtle bass, emotional vocals, layered harmonies, intimate atmosphere, longing, heartbreak, mellow drums, atmospheric pads, reflective
+- Neo hip hop, Chinese classical, ethereal, melancholic rap, lotus imagery, atmospheric beats, introspective lyrics, powerful vocals, emotional depth, dramatic
+- chinese hip hop, auto tune, Kris Wu, 吴亦凡, melancholic chinese folk song, ethereal vocals, traditional instruments like guzheng and dizi
+- Mandarin hip hop, trap soul, lo-fi hip hop, R&B fusion, melodic rap, atmospheric production, introspective themes, emotional vulnerability, smooth vocal delivery, reflective lyrics
+
+Your Generated Styles:
+- melancholic pop ballad, tender male vocals, reflective piano, subtle strings, bittersweet and nostalgic, themes of lost love and acceptance
+- emotional R&B, smooth male vocals, atmospheric pads, slow tempo, heartfelt and vulnerable, moving on from a past relationship
+- acoustic pop, gentle guitar, sincere male vocals, poignant lyrics, stripped-down production, raw and honest emotion
+- cinematic ballad, orchestral arrangements, powerful male vocals, dramatic and emotional, a grand farewell to love
+- lo-fi R&B, hazy soundscape, introspective male vocals, intimate and melancholic, late-night reflection on past love
+----------
+
+Song Title: 刀剑如梦
+Lyrics:
+我剑何去何从 爱与恨情难独钟
+我刀划破长空 是与非懂也不懂
+我醉一片朦胧 恩和怨是幻是空
+我醒一场春梦 生与死一切成空
+
+来也匆匆去也匆匆 恨不能相逢
+爱也匆匆恨也匆匆 一切都随风
+狂笑一声长叹一声 快活一生悲哀一生
+谁与我生死与共
+
+我哭泪洒心中 悲与欢苍天捉弄
+我笑我狂我疯 天与地风起云涌
+我醉一片朦胧 恩和怨是幻是空
+我醒一场春梦 生与死一切成空
+
+来也匆匆去也匆匆 恨不能相逢
+爱也匆匆恨也匆匆 一切都随风
+狂笑一声长叹一声 快活一生悲哀一生
+谁与我生死与共
+
+来也匆匆去也匆匆 恨不能相逢
+爱也匆匆恨也匆匆 一切都随风
+谁与我生死与共
+谁与我生死与共
+
+Styles from IN_styles.txt:
+- chinese rap, hip hop, powerful, dynamic flow, exotic flow, melody hook, emotional, psycho, neurotic, shout, male vocal
+- Chinese hip hop, sad boy rap, melodic flow, trap influence, muted 808s, echoing vocals, vulnerability, heartbroken lyrics, late night vibes, reflective
+- Neo hip hop, Chinese classical, ethereal, melancholic rap, lotus imagery, atmospheric beats, introspective lyrics, powerful vocals, emotional depth, dramatic
+- chinese hip hop, auto tune, Kris Wu, 吴亦凡, melancholic chinese folk song, ethereal vocals, traditional instruments like guzheng and dizi
+- Experimental hip hop, abstract lyrical content, unconventional song structure, avant garde production, blending Chinese and Western sounds, innovative and forward thinking
+
+Your Generated Styles:
+- epic Chinese hip-hop, traditional instrumentation, powerful male rap, martial arts themes, dramatic and cinematic, battle anthem
+- fusion rock-rap, heavy guitars, dynamic male vocals, energetic and aggressive, themes of fate and destiny, rebellious spirit
+- traditional Chinese folk metal, guzheng riffs, powerful male vocals, mythological themes, dark and epic, ancient warrior spirit
+- cinematic orchestral hip-hop, grand arrangements, determined male vocals, heroic narrative, overcoming challenges, triumphant sound
+- melodic trap with traditional elements, auto-tuned vocals, atmospheric pads, introspective lyrics, modern and ancient fusion
+----------
+
+Song Title: 乖乖 (与谭晶合作)
+Lyrics:
+我们师徒四人去取经
+是否会有心灵感应呢
+师父跟着徒弟说你不要想太多
+我可以一直保护你们
+孙悟空他每次都打妖怪
+猪八戒每次问我回不回来
+沙和尚他跟我说
+师父又被妖精抓走问我怎么办
+我的如来神掌很厉害
+但是低调我不说
+佛祖你给我超能力
+让我去西天取经这故事你想不想听
+我的如来神掌很厉害
+我们可以一起打妖怪
+金箍棒了沙和尚了
+八戒胖了师父够了
+请你乖乖做个善良小孩
+你是我一生所爱
+
+乖乖你快回来
+我怀抱一直为你打开
+乖乖要真心悔改
+你永远是我最爱的小孩
+
+悟空说的是有求必应
+那改不掉的毛病
+我这偏头痛
+是我忘不掉的旋律
+你说我这脾气
+你说我这坏脾气
+你说我这臭脾气
+我告诉你取经太不容易
+克服九九八十一难
+你还要给我难堪
+别问我为什么这么难
+人生就像取经
+你想要成长就必须经历苦难
+如果佛祖是你的后盾
+请你人生不要留有任何遗憾
+
+孩子孩子为何你这么坏
+欺负欺骗为何你做出来
+学会做好小孩相亲相爱
+关怀就在心中充满色彩
+
+乖乖你快回来
+我怀抱一直为你打开
+乖乖要真心悔改
+你永远是我最爱的小孩
+乖乖你快回来
+要努力学习为了未来
+回头做孝顺的小孩
+本来人性都是善良像小孩
+
+我们师徒四人走在远方
+看着远方落幕的夕阳
+能不能看到你我不知道
+
+Styles from IN_styles.txt:
+- Chinese hip hop, sad boy rap, melodic flow, trap influence, muted 808s, echoing vocals, vulnerability, heartbroken lyrics, late night vibes, reflective
+- Neo soul, jazzy piano, subtle bass, emotional vocals, layered harmonies, intimate atmosphere, longing, heartbreak, mellow drums, atmospheric pads, reflective
+- Neo hip hop, Chinese classical, ethereal, melancholic rap, lotus imagery, atmospheric beats, introspective lyrics, powerful vocals, emotional depth, dramatic
+- chinese hip hop, auto tune, Kris Wu, 吴亦凡, melancholic chinese folk song, ethereal vocals, traditional instruments like guzheng and dizi
+- Mandarin hip hop, trap soul, lo-fi hip hop, R&B fusion, melodic rap, atmospheric production, introspective themes, emotional vulnerability, smooth vocal delivery, reflective lyrics
+
+Your Generated Styles:
+- playful pop-rap, catchy melody, dual male and female vocals, lighthearted and fun, themes of childhood and adventure
+- traditional Chinese folk-pop, gentle instrumentation, storytelling lyrics, moral lessons, family-friendly and heartwarming
+- modern hip-hop with a positive message, upbeat tempo, confident male rap, inspirational and empowering, overcoming challenges
+- children's song with hip-hop elements, simple melody, educational lyrics, cheerful and engaging, encouraging good behavior
+- fusion pop, blend of traditional and modern sounds, harmonious vocals, uplifting and optimistic, a journey of growth
+----------
+
+Song Title: 我选择的路
+Lyrics:
+人生是场计时比赛
+两百迈的时速冲破精彩
+就算失败重来
+我也从不懈怠
+我选择的路
+给世界看我再走
+
+不全场都不准备
+不时选择一条骄傲的路
+哎 让世界更好
+让你越更糟
+让我们一起会快乐
+
+Styles from IN_styles.txt:
+- chinese rap, hip hop, powerful, dynamic flow, exotic flow, melody hook, emotional, psycho, neurotic, shout, male vocal
+- Chinese hip hop, sad boy rap, melodic flow, trap influence, muted 808s, echoing vocals, vulnerability, heartbroken lyrics, late night vibes, reflective
+- Neo hip hop, Chinese classical, ethereal, melancholic rap, lotus imagery, atmospheric beats, introspective lyrics, powerful vocals, emotional depth, dramatic
+- chinese hip hop, auto tune, Kris Wu, 吴亦凡, melancholic chinese folk song, ethereal vocals, traditional instruments like guzheng and dizi
+- Experimental hip hop, abstract lyrical content, unconventional song structure, avant garde production, blending Chinese and Western sounds, innovative and forward thinking
+
+Your Generated Styles:
+- powerful hip-hop anthem, driving beat, confident male rap, motivational lyrics, triumphant and energetic, themes of ambition and self-belief
+- inspirational pop-rap, uplifting melody, soaring synths, determined male vocals, overcoming obstacles, positive and empowering
+- gritty street rap, raw vocals, minimalist beat, defiant attitude, authentic storytelling, themes of struggle and perseverance
+- cinematic hip-hop, orchestral elements, dramatic build-up, heroic narrative, grand and aspirational, a journey of self-discovery
+- modern trap, heavy 808s, aggressive male rap, dark and intense production, confident and assertive, themes of success and dominance
+----------
+
+Song Title: 咖啡 (与鹿晗合作)
+Lyrics:
+我想要杯咖啡
+拍拍肩上的灰
+This world is crazy
+I'm feeling lazy
+给我一杯咖啡咖啡
+
+赶不走灰色乌云
+就带上墨镜oh
+给天空加个滤镜
+保持心情eh oh
+放慢节奏跟着点头
+双手插兜晃晃悠悠
+今天别找我开会
+冰美式再续一杯
+Nothing here can ruin my vibe
+情侣在忙着约会
+屋顶夏日是绝配
+没人在乎我是谁
+
+我想要杯咖啡
+拍拍肩上的灰
+This world is crazy
+I'm feeling lazy
+给我一杯咖啡咖啡
+
+给我续杯咖啡ye
+这Feelin 着实让人陶醉ye
+也许有点想入非非ye
+试着放下所有防备
+感受着
+蔚蓝的天空
+仿佛在太空中翱游
+头脑都放空
+就享受这一刻微风迎面吹拂着
+咖啡店
+忘记时间
+微微醺
+过眼云烟
+所有困扰的烦恼和想法
+绕道行驶也许就有了办法
+别去纠结别人决定和看法
+来杯冰美式出发
+白日梦里看风景
+沿着街贴地飞行
+松开绷紧的神经
+扔掉随时的完美
+冰美式再续一杯
+Nothing here can ruin my vibe
+
+我想要杯咖啡
+拍拍肩上的灰
+This world is crazy
+I'm feeling lazy
+给我一杯咖啡咖啡
+一杯冰咖啡
+我只想要一杯冰咖啡
+我只想要一杯冰咖啡
+我只想要一杯冰咖啡
+我只想要
+
+Styles from IN_styles.txt:
+- Chinese hip hop, sad boy rap, melodic flow, trap influence, muted 808s, echoing vocals, vulnerability, heartbroken lyrics, late night vibes, reflective
+- Neo soul, jazzy piano, subtle bass, emotional vocals, layered harmonies, intimate atmosphere, longing, heartbreak, mellow drums, atmospheric pads, reflective
+- Neo hip hop, Chinese classical, ethereal, melancholic rap, lotus imagery, atmospheric beats, introspective lyrics, powerful vocals, emotional depth, dramatic
+- chinese hip hop, auto tune, Kris Wu, 吴亦凡, melancholic chinese folk song, ethereal vocals, traditional instruments like guzheng and dizi
+- Mandarin hip hop, trap soul, lo-fi hip hop, R&B fusion, melodic rap, atmospheric production, introspective themes, emotional vulnerability, smooth vocal delivery, reflective lyrics
+
+Your Generated Styles:
+- chill lo-fi hip-hop, smooth male vocals, relaxed beat, atmospheric pads, introspective and laid-back, coffee shop vibe
+- urban R&B, groovy bassline, slick drums, confident male vocals, feel-good and optimistic, escaping daily grind
+- dreamy pop, ethereal synths, soft percussion, reflective lyrics, wistful and serene, a moment of peace
+- contemporary hip-hop, melodic rap, catchy hook, modern production, confident and cool, enjoying simple pleasures
+- acoustic pop, gentle guitar, sincere male vocals, stripped-down production, intimate and reflective, a personal escape
+----------
