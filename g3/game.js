@@ -46,7 +46,9 @@ function create() {
         hp: 10,
         mp: 5,
         skills: [],
-        sprite: this.add.text(offsetX + map[1].indexOf('@') * tileSize, offsetY + 1 * tileSize, '@', { fontSize: '32px', fill: '#fff' })
+        sprite: this.add.text(offsetX + map[1].indexOf('@') * tileSize, offsetY + 1 * tileSize, '@', { fontSize: '32px', fill: '#fff' }),
+        x: map[1].indexOf('@'),
+        y: 1
     };
 
     enemies = [];
@@ -57,14 +59,42 @@ function create() {
                     hp: 5,
                     mp: 3,
                     skills: [],
-                    sprite: this.add.text(offsetX + x * tileSize, offsetY + y * tileSize, 'E', { fontSize: '32px', fill: '#f00' })
+                    sprite: this.add.text(offsetX + x * tileSize, offsetY + y * tileSize, 'E', { fontSize: '32px', fill: '#f00' }),
+                    x: x,
+                    y: y
                 };
                 enemies.push(enemy);
             }
         }
     }
+
+    // Add WASD controls
+    this.input.keyboard.on('keydown_W', () => movePlayer(-1, 0));
+    this.input.keyboard.on('keydown_S', () => movePlayer(1, 0));
+    this.input.keyboard.on('keydown_A', () => movePlayer(0, -1));
+    this.input.keyboard.on('keydown_D', () => movePlayer(0, 1));
 }
 
 function update() {
-    // Add player movement and enemy behavior here
+    // Keep player centered
+    const tileSize = 32;
+    const offsetX = (config.width - map[0].length * tileSize) / 2;
+    const offsetY = (config.height - map.length * tileSize) / 2;
+
+    player.sprite.setPosition(offsetX + player.x * tileSize, offsetY + player.y * tileSize);
+
+    // Update enemy positions
+    enemies.forEach(enemy => {
+        enemy.sprite.setPosition(offsetX + enemy.x * tileSize, offsetY + enemy.y * tileSize);
+    });
+}
+
+function movePlayer(dx, dy) {
+    const newX = player.x + dx;
+    const newY = player.y + dy;
+
+    if (map[newY] && map[newY][newX] !== '#') {
+        player.x = newX;
+        player.y = newY;
+    }
 }
