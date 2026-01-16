@@ -12,3 +12,6 @@ action_duplicate=[,z]
 action_quit=[esc]
 action_save=[ctrl+s]
 action_undo=[ctrl+z]
+
+[editor]
+main_scene = "res://main.tscn"
