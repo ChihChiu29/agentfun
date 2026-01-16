@@ -69,10 +69,22 @@ function create() {
     }
 
     // Add WASD controls
-    this.input.keyboard.on('keydown_W', () => movePlayer(-1, 0));
-    this.input.keyboard.on('keydown_S', () => movePlayer(1, 0));
-    this.input.keyboard.on('keydown_A', () => movePlayer(0, -1));
-    this.input.keyboard.on('keydown_D', () => movePlayer(0, 1));
+    this.input.keyboard.on('keydown_W', () => {
+        console.log('W pressed');
+        movePlayer(-1, 0);
+    });
+    this.input.keyboard.on('keydown_S', () => {
+        console.log('S pressed');
+        movePlayer(1, 0);
+    });
+    this.input.keyboard.on('keydown_A', () => {
+        console.log('A pressed');
+        movePlayer(0, -1);
+    });
+    this.input.keyboard.on('keydown_D', () => {
+        console.log('D pressed');
+        movePlayer(0, 1);
+    });
 }
 
 function update() {
