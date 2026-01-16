@@ -17,7 +17,7 @@ let player;
 let enemies;
 
 function preload() {
-    this.load.image('tile', 'https://i.imgur.com/4ePQZ.png'); // Example tile image
+    // No need to load any images
 }
 
 function create() {
@@ -35,9 +35,9 @@ function create() {
 
     for (let y = 0; y < map.length; y++) {
         for (let x = 0; x < map[y].length; x++) {
-            const tile = this.add.image(offsetX + x * tileSize, offsetY + y * tileSize, 'tile');
-            if (map[y][x] === '#') {
-                tile.setTint(0x333333);
+            const char = map[y][x];
+            if (char !== ' ') {
+                this.add.text(offsetX + x * tileSize, offsetY + y * tileSize, char, { fontSize: '32px', fill: '#fff' });
             }
         }
     }
