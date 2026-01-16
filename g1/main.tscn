@@ -1,0 +1,19 @@
+[node name="Main" type="Node2D"]
+
+[node name="Map" type="Node2D"]
+script = "res://Map.gd"
+
+[node name="Player" type="Sprite2D" parent="."]
+texture = ExtResource( 0 )
+position = Vector2( 40, 30 )
+script = "res://Player.gd"
+
+[node name="Monster1" type="Sprite2D" parent="."]
+texture = ExtResource( 1 )
+position = Vector2( 60, 50 )
+script = "res://Monster.gd"
+
+[node name="Monster2" type="Sprite2D" parent="."]
+texture = ExtResource( 1 )
+position = Vector2( 80, 70 )
+script = "res://Monster.gd"
