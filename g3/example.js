@@ -44,7 +44,7 @@ function create() {
 
   player = this.physics.add.image(200, 150, "block");
   player.setCollideWorldBounds(true);
-  
+
   text = this.add.text(20, 40, '', { fill: colors.cssColors.yellow });
 }
 
@@ -62,7 +62,7 @@ function update() {
   } else if (keys.S.isDown) {
     player.setVelocityY(300);
   }
-  
+
   text.setText(
     Object.entries(keys).map(([name, key]) => `${name}: keyCode=${key.keyCode} isDown=${key.isDown} isUp=${key.isUp} timeDown=${key.timeDown} timeUp=${key.timeUp}`)
   );
