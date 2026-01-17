@@ -15,6 +15,7 @@ const game = new Phaser.Game(config);
 let map;
 let player;
 let enemies;
+let keys;
 
 function preload() {
     // No need to load any images
@@ -68,23 +69,8 @@ function create() {
         }
     }
 
-    // Add WASD controls
-    this.input.keyboard.on('keydown_W', () => {
-        console.log('W pressed');
-        movePlayer(-1, 0);
-    });
-    this.input.keyboard.on('keydown_S', () => {
-        console.log('S pressed');
-        movePlayer(1, 0);
-    });
-    this.input.keyboard.on('keydown_A', () => {
-        console.log('A pressed');
-        movePlayer(0, -1);
-    });
-    this.input.keyboard.on('keydown_D', () => {
-        console.log('D pressed');
-        movePlayer(0, 1);
-    });
+    // Add WASD controls using the same approach as example.js
+    keys = this.input.keyboard.addKeys("W,A,S,D");
 }
 
 function update() {
@@ -99,6 +85,19 @@ function update() {
     enemies.forEach(enemy => {
         enemy.sprite.setPosition(offsetX + enemy.x * tileSize, offsetY + enemy.y * tileSize);
     });
+
+    // Handle WASD movement in update function
+    if (keys.A.isDown) {
+        movePlayer(0, -1);
+    } else if (keys.D.isDown) {
+        movePlayer(0, 1);
+    }
+
+    if (keys.W.isDown) {
+        movePlayer(-1, 0);
+    } else if (keys.S.isDown) {
+        movePlayer(1, 0);
+    }
 }
 
 function movePlayer(dx, dy) {
