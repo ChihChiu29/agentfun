@@ -290,9 +290,47 @@ async function connectOrToggleForActiveTab() {
 
   const existing = tabs.get(tabId)
   if (existing?.state === 'connected') {
-    // await detachTab(tabId, 'toggle');
+    await detachTab(tabId, 'toggle');
     return
   }
+
+  tabs.set(tabId, { state: 'connecting' })
+  setBadge(tabId, 'connecting')
+  void chrome.action.setTitle({
+    tabId,
+    title: 'Clawdbot Browser Relay: connecting to local relay…',
+  })
+
+  try {
+    await ensureRelayConnection()
+    await attachTab(tabId)
+  } catch (err) {
+    tabs.delete(tabId)
+    setBadge(tabId, 'error')
+    void chrome.action.setTitle({
+      tabId,
+      title: 'Clawdbot Browser Relay: relay not running (open options for setup)',
+    })
+    void maybeOpenHelpOnce()
+    // Extra breadcrumbs in chrome://extensions service worker logs.
+    const message = err instanceof Error ? err.message : String(err)
+    console.warn('attach failed', message, nowStack())
+  }
+}
+
+async function detachAll() {
+  for (const [tabId, status] of tabs) {
+    if (status?.state === 'connected') {
+      await detachTab(tabId, 'toggle');
+    }
+  }
+}
+
+// Called when a new tab is created.
+async function makeActiveAndConnectToNewTab(newTabId) {
+  await detachAll();
+
+  const tabId = newTabId;
 
   tabs.set(tabId, { state: 'connecting' })
   setBadge(tabId, 'connecting')
@@ -433,12 +471,23 @@ function onDebuggerDetach(source, reason) {
 
 chrome.action.onClicked.addListener(() => void connectOrToggleForActiveTab());
 
-chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => { 
-  chrome.tabs.update(tabId, { active: true }); 
-  connectOrToggleForActiveTab();
+chrome.tabs.onCreated.addListener((tab) => {
+  chrome.tabs.update(tab.id, { active: true });
+  // makeActiveAndConnectToNewTab(tab.id);
 });
+
+chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
+  console.log('tab updated: ' + tabId);
+  // chrome.tabs.update(tabId, { active: true }); 
+  // connectOrToggleForActiveTab();
+  makeActiveAndConnectToNewTab(tab.id);
+});
+
+// chrome.tabs.onActivated.addListener((activeInfo) => {
+//   makeActiveAndConnectToNewTab(activeInfo.tabId);
+// });
 
 chrome.runtime.onInstalled.addListener(() => {
   // Useful: first-time instructions.
-  void chrome.runtime.openOptionsPage()
+  // void chrome.runtime.openOptionsPage()
 })
